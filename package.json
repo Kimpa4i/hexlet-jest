@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "keywords": [
+    "test",
+    "jest",
+    "js"
+  ],
+  "author": "Andrei",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
